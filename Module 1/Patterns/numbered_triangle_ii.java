@@ -1,12 +1,12 @@
-package Patters;
+package Patterns;
 
-import java.util.Scanner;
+import java.util.*;
 
-public class numbered_triangle {
+public class numbered_triangle_ii {
     public static void triangle_pattern(int height){
         for(int i = 1; i <= height ; i++){
             for(int j = 1 ; j <= i ; j++){
-                System.out.print(j + " ");
+                System.out.print(i + " ");
             }
 
             System.out.println();
@@ -21,3 +21,4 @@ public class numbered_triangle {
         triangle_pattern(h);
     }
 }
+
