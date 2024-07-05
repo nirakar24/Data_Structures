@@ -1,4 +1,14 @@
 package java_collections;
+// It's an doubly-linked list, implementation of list and deque interfaces
+// # Nodes
+//  - Data : Value of node
+//  - Next : reference to next node
+//  - Previous : reference to previous node
+// # Common Methods
+//  - add() --> (Add the elements)
+//  - get() --> (Access the elements)
+//  - remove() --> (Remove the elements)
+//  - set() --> (Modify the elements)
 
 import java.util.LinkedList;
 
