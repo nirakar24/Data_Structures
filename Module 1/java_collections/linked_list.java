@@ -1,4 +1,4 @@
-package java_collections;
+package Java_collections;
 // It's an doubly-linked list, implementation of list and deque interfaces
 // # Nodes
 //  - Data : Value of node

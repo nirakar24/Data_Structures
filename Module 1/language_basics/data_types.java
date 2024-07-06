@@ -1,6 +1,6 @@
 // Memory in bytes occupied by each data type
 
-package language_basics;
+package Language_basics;
 
 import java.util.Scanner;
 

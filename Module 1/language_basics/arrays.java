@@ -1,5 +1,5 @@
 // How to define an array
-package language_basics;
+package Language_basics;
 
 import java.util.Scanner;
 
