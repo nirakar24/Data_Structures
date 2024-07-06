@@ -1,4 +1,4 @@
-package Language_basics;
+package language_basics;
 
 public class hello{
     public static void main(String[] args) {
